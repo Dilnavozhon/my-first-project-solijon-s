@@ -44,7 +44,7 @@ function App() {
             marginBottom: "24px",
           }}
         >
-          {/* Our Equilibrium collection promotes balance and calm. */}
+          Our Equilibrium collection promotes balance and calm.
         </p>
 
         <div
