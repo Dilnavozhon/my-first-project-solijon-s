@@ -28,7 +28,7 @@ function App() {
       >
         <img
           className="nft-image"
-          src="/Rectangle Copy.svg"
+          src="/images/svg/Rectangle Copy.svg"
           alt="Rasm bor"
           style={{ width: "100%", borderRadius: "8px", marginBottom: "24px" }}
         />
@@ -56,7 +56,7 @@ function App() {
         >
           <div style={{ display: "flex" }}>
             <img
-              src="./public/images/Combined Shape.svg"
+              src="/images/svg/Combined Shape.svg"
               alt="bu yerda rasm bor"
               style={{
                 width: "11px",
@@ -81,7 +81,7 @@ function App() {
 
           <div style={{ display: "flex" }}>
             <img
-              src="./public/images/Clock.svg"
+              src="/images/svg/Clock.svg"
               alt="bu yerda rasm bor"
               style={{ marginRight: "8px" }}
             />
